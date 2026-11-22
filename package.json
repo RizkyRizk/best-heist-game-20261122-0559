@@ -1,0 +1,1 @@
+{"description":"Velvet Vault — a top-down stealth heist game for make.fun","name":"velvet-vault","private":true,"scripts":{"build":"node main.ts"},"type":"module","version":"1.0.0"}
